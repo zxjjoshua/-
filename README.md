@@ -4,8 +4,15 @@
 #include<iostream>
 #include<fstream>
 
-using namespace std;
+hello world!
 
+using namespace std;
+sad
+cdd
+
+asd
+
+da
 struct base{
 	int num;
 	float latitude;
